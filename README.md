@@ -4,6 +4,19 @@
 
 ---
 
+## 🖼️ Prototype Images
+
+<p align="center">
+  <img src="./docs/images/prototype_front.png" width="45%" alt="Grain Weevil Robot - Front View"/>
+  &nbsp;&nbsp;
+  <img src="./docs/images/prototype_side.png" width="45%" alt="Grain Weevil Robot - Side View"/>
+</p>
+<p align="center">
+  <em>Left: Front view of the robot chassis &nbsp;|&nbsp; Right: Side/angled view showing structural frame</em>
+</p>
+
+---
+
 ## 📖 Overview
 
 The **Grain Weevil Robot** is an embedded IoT platform designed for autonomous grain bin operations. Built on an ESP32 microcontroller, it continuously monitors environmental conditions, navigates granular terrain using custom Archimedes screw wheels, and executes safety protocols — all without human intervention.
